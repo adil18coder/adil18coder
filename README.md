@@ -1,14 +1,12 @@
-<!-- EN BAŞA YÜKLƏNƏN BANNER -->
 <p align="center">
-  <img src="image_9.png" width="100%" alt="Adil Vəliyev Penetration Tester Banner" />
+  <img src="Blue Modern Professional Graphic Designer Banner.jpg" width="100%" alt="Adil Vəliyev Penetration Tester Banner" />
 </p>
 
-<!-- ARDINDAN ƏVVƏLKİ MƏZMUN GƏLİR -->
 # 🛡️ Adil Vəliyev | Penetration Tester & Red Team Enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/badge/GPA-95.03%20%2F%20100-success?style=for-the-badge&logo=googlescholar" />
-  <img src="https://img.shields.io/badge/Current_Focus-Red_Teaming_%26_Exploit_Dev-red?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Current_Focus-Red_Teaming_%26_Penetration_Testing-red?style=for-the-badge&logo=target" />
 </p>
 
 ## 👤 About Me
@@ -40,11 +38,13 @@ Mən **Adil Vəliyev**, Azərbaycan Dövlət İqtisad Universitetinin (ADİU) t�
 ![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-blue?style=for-the-badge)
 ![Hydra](https://img.shields.io/badge/Hydra-purple?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge)
 
 ### 🐍 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Network](https://img.shields.io/badge/Networking-Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco)
 
 ---
 
