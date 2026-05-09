@@ -1,8 +1,10 @@
-# 🛡️ Adil Vəliyev | Penetration Tester & Red Team Enthusiast
-
+<!-- EN BAŞA YÜKLƏNƏN BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Adil%20Vəliyev&fontSize=60&animation=fadeIn" width="100%" />
+  <img src="image_9.png" width="100%" alt="Adil Vəliyev Penetration Tester Banner" />
 </p>
+
+<!-- ARDINDAN ƏVVƏLKİ MƏZMUN GƏLİR -->
+# 🛡️ Adil Vəliyev | Penetration Tester & Red Team Enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/badge/GPA-95.03%20%2F%20100-success?style=for-the-badge&logo=googlescholar" />
