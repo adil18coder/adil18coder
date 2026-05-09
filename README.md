@@ -1,75 +1,75 @@
-# Hi 👋 I'm Adil
+# 🛡️ Adil Vəliyev | Penetration Tester & Red Team Enthusiast
 
-🔐 Cybersecurity Student | Ethical Hacking Enthusiast | CTF Player
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Adil%20Vəliyev&fontSize=60&animation=fadeIn" width="100%" />
+</p>
 
-I am a cybersecurity student passionate about penetration testing, ethical hacking and offensive security.
+<p align="center">
+  <img src="https://img.shields.io/badge/GPA-95.03%20%2F%20100-success?style=for-the-badge&logo=googlescholar" />
+  <img src="https://img.shields.io/badge/Current_Focus-Red_Teaming_%26_Exploit_Dev-red?style=for-the-badge&logo=target" />
+</p>
 
-Currently I improve my skills through hands-on labs, Capture The Flag (CTF) challenges and vulnerability labs.
+## 👤 About Me
+Mən **Adil Vəliyev**, Azərbaycan Dövlət İqtisad Universitetinin (ADİU) tələbəsiyəm. Hazırda əsas fokusum **Red Teaming**, sistemlərin sızma testləri və mürəkkəb veb zəifliklərinin (SQLi, XSS, LFI) tədqiqidir.
 
----
-
-## 🔐 Cybersecurity Practice
-
-I regularly practice cybersecurity using platforms like:
-
-- TryHackMe
-- CTF challenges
-- Vulnerability labs
-
-Most of my repositories contain writeups of labs and CTF challenges I have completed.
-
----
-
-## 🧠 Skills I'm Learning
-
-- Linux
-- Networking Fundamentals
-- Enumeration Techniques
-- Web Application Security
-- SQL Injection
-- NoSQL Injection
-- Cross-Site Scripting (XSS)
-- Linux Privilege Escalation
+- 🎓 **University:** Azerbaijan State University of Economics (ADİU)
+- 📈 **Academic Standing:** GPA 95.03
+- 🐍 **Programming:** Advanced Python for Automation & Exploit Development
+- 🎯 **Objective:** Finding vulnerabilities before the "bad guys" do.
 
 ---
 
-## 🛠 Tools I Use
-
-- Nmap  
-- Gobuster  
-- Hydra  
-- Netcat  
-- Burp Suite  
-- Linux CLI  
+## 🏗️ Learning Platforms
+<p align="left">
+  <a href="https://tryhackme.com/p/adil18coder" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Active-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://hackthebox.com" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-Learning-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://portswigger.net" target="_blank"><img src="https://img.shields.io/badge/PortSwigger-Web_Security_Academy-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📂 Featured Writeups
+## 🛠️ Cybersecurity Arsenal
 
-- TryHackMe Mr Robot CTF
-- Nano Cherry CTF
-- SQL Injection Lab
-- NoSQL Injection Lab
-- Common Linux Privilege Escalation
+### 🔴 Offensive Security & Red Teaming
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-006400?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-blue?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-purple?style=for-the-badge)
 
-More writeups will be added as I continue my cybersecurity learning journey.
-
----
-
-## 🎯 Current Goals
-
-- Improve penetration testing skills
-- Complete more TryHackMe rooms
-- Build a strong cybersecurity portfolio
-- Participate in more CTF competitions
+### 🐍 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Hackathons & Experience
 
-GitHub: https://github.com/adil18coder  
-LinkedIn: https://www.linkedin.com/in/adil-valiyev-64b467383/
+### 🤖 AI4 Business Management Hackathon
+**Layihə:** *AI-Integrated Startup Ecosystem Platform*
+- Süni intellekt (AI) inteqrasiyası ilə strukturlaşdırılmış startapların yerləşdirilməsi və idarə olunması üçün veb-platformanın yaradılması.
+- Startapların analitik təhlili və investisiya potensialının avtomatlaşdırılmış qiymətləndirilməsi mexanizmləri.
 
 ---
 
-⚡ Learning cybersecurity one exploit at a time.
+## 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adil18coder&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adil18coder&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil18coder&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 📈 Activity Graph
+![Adil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adil18coder&theme=tokyonight)
+
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i> 👁️‍🗨️
+</p>
